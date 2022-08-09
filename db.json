@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "text": "Plant a tree",
+      "done": true,
+      "id": 0.31881804633552013
+    },
+    {
+      "text": "Buy milk",
+      "done": false,
+      "id": 0.7330837092430131
+    },
+    {
+      "text": "Party with friends - 20:00",
+      "done": false,
+      "id": 0.7593852469330491
+    },
+    {
+      "text": "Go for a walk with a dog",
+      "done": false,
+      "id": 0.8847088346669099
+    },
+    {
+      "text": "Buy meat",
+      "done": true,
+      "id": 0.32341151815556435
+    }
+  ]
+}
